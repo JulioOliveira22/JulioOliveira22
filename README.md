@@ -105,4 +105,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JulioOliveira22&style=flat-square&color=667EEA" alt="Profile Views"/>
 
-   ![Snake animation](https://github.com/JulioOliveira22/JulioOliveira22/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/JulioOliveira22/JulioOliveira22/blob/output/dist/github-contribution-grid-snake.svg)
