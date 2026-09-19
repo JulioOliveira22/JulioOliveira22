@@ -13,7 +13,7 @@
 Com experiência prática que une a gestão de operações tecnológicas e o desenvolvimento de software, o meu foco atual é a construção e modernização de sistemas web escaláveis. 
 
 - 💼 **Atualmente:** Trabalho no desenvolvimento de interfaces front-end (React/TypeScript) e na manutenção de sistemas internos, ajudando a modernizar arquiteturas legadas.
-- 🎓 **Formação:** A frequentar a licenciatura em Sistemas de Informação pela Uninter (previsão de conclusão no final de 2025), com formação anterior em Gestão da Tecnologia da Informação.
+- 🎓 **Formação:** A frequentar a licenciatura em Sistemas de Informação pela Uninter, com formação anterior em Gestão da Tecnologia da Informação.
 - 🔧 **O que construo:** Desde e-commerces completos (Next.js/Tailwind) a portais automatizados para manutenção de bases de dados (Python/Flask/Docker).
 - 📊 **Background:** Três anos de experiência em gestão de acessos e relatórios operacionais, o que me deu uma base sólida em processos e resolução estrutural de problemas antes de transitar em pleno para o desenvolvimento de software.
 
